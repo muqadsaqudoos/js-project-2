@@ -1,0 +1,43 @@
+body{
+    background: lightblue
+
+}
+h5{
+    background-color: lightpink;
+    font-size: 1.2rem;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.btn{
+    background-color: lightblue;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+
+}
+.box{
+    border: 15px solid white;
+    text-align: center;
+    margin: 150px 368px;
+    border-radius: 10px;
+   
+    background-color: white;
+}
+
+
+#name{
+    width: 90%;
+    padding: 5px;
+}
+.feedback{
+    display: none;
+}
+.show{
+    display: block;
+}
+
+.message-content{
+    color: green;
+}
